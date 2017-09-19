@@ -18,7 +18,6 @@ function divide(){
 	
 }
 		
-
 function subtract() {
 	var v1=parseInt(document.getElementById("input1").value);
 	var v2=parseInt(document.getElementById("input2").value);
